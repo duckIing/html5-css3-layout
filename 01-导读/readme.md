@@ -8,6 +8,6 @@
 
 # 开发工具
 
-trae：https://www.trae.ai/
+trae：<https://www.trae.ai/>
 
-chrome：https://www.google.com/chrome/
+chrome：<https://www.google.com/chrome/>
